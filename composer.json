@@ -14,6 +14,9 @@
     "authors": [
         {
             "name": "Ultraware"
+        },
+        {
+            "name": "Endone777"
         }
     ],
     "require": {
@@ -23,7 +26,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Ultraware\\Roles\\": "src/"
+            "Endone777\\Roles\\": "src/"
         }
     },
     "require-dev": {
