@@ -1,5 +1,5 @@
 {
-    "name": "tuliob/roles",
+    "name": "ultraware/roles",
     "description": "Powerful package for handling roles and permissions in Laravel 5.",
     "abandoned": true,
     "keywords": [
@@ -14,9 +14,6 @@
     "authors": [
         {
             "name": "Ultraware"
-        },
-        {
-            "name": "tuliob"
         }
     ],
     "require": {
@@ -26,7 +23,7 @@
     },
     "autoload": {
         "psr-4": {
-            "TulioB\\Roles\\": "src/"
+            "Ultraware\\Roles\\": "src/"
         }
     },
     "require-dev": {
@@ -48,7 +45,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "TulioB\\Roles\\RolesServiceProvider"
+                "Ultraware\\Roles\\RolesServiceProvider"
             ]
         }
     }
