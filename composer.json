@@ -48,7 +48,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Endone777\\Roles\\RolesServiceProvider"
+                "TulioB\\Roles\\RolesServiceProvider"
             ]
         }
     }
